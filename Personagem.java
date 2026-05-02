@@ -1,5 +1,7 @@
-public class Personagem {                    //criando classe para personagem
-    String nome;
+public class Personagem {     //criando classe para personagem
+    
+    //atributos que armazenam as características do personagem
+    String nome;              
     String classe;
     int nivel;
     int pontosDeVida;
