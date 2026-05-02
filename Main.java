@@ -7,3 +7,4 @@ public class Main {    //classe principal e responsavél por executar o programa
 		heroi1.exibirStatus();       //chamando o método para exibir os dados do personagem no console
     }
 }
+
