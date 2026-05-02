@@ -1,4 +1,4 @@
-public class Personagem {
+public class Personagem {                    //criando classe para personagem
     String nome;
     String classe;
     int nivel;
@@ -7,17 +7,10 @@ public class Personagem {
 
     public Personagem(String nome, String classe, int nivel, int pontosDeVida, double poderBase) {
         this.nome = nome;
-        .
-        .
-        .
-
     }
 
     public void exibirStatus() {
-        System.out.println("--- Status do Personagem ---");
-        .
-        .
-        .
+      
 
     }
 }
