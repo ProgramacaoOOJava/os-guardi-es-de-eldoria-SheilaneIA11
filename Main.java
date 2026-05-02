@@ -5,6 +5,5 @@ public class Main {    //classe principal e responsavél por executar o programa
         Personagem heroi1 = new Personagem("Arthemis", "Arqueira", 5, 60, 12.5);
 
 		heroi1.exibirStatus();       //chamando o método para exibir os dados do personagem no console
-
     }
 }
